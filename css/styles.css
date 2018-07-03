@@ -10,6 +10,7 @@
   top: 0;
   left: 0;
   border-right: 1px solid rgba(71, 198, 232, 0.72);
+  float: left;
 }
 
 .sidenav .top-list{
@@ -31,5 +32,14 @@
 }
 
 .container_custom {
-  background: rgb(126, 124, 124);
+  background: rgba(135, 134, 133, 0.53);
+}
+.header-card-title-container {
+  text-align: center;
+  float: left;
+  margin-bottom: -30px;
+}
+.header-card-body-container {
+  float: right;
+  margin-bottom: -30px;
 }
